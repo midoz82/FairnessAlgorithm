@@ -1,0 +1,1001 @@
+,Gender,title,hardSkills,softSkills,Race
+0,1,developer,lighthand,languages,0
+1,0,web designer,java,creative,0
+2,1,developer,java,languages,1
+3,0,doctor,java,communacative,1
+4,1,developer,python,communacative,0
+5,0,web designer,java,communacative,1
+6,0,developer,office,creative,1
+7,1,developer,python,communacative,1
+8,0,developer,python,communacative,1
+9,0,web designer,lighthand,communacative,1
+10,1,secertary,python,creative,0
+11,0,secertary,python,communacative,2
+12,0,developer,lighthand,languages,1
+13,1,doctor,office,languages,3
+14,0,doctor,office,languages,2
+15,0,developer,java,creative,2
+16,1,developer,java,creative,2
+17,0,doctor,java,languages,1
+18,0,secertary,python,communacative,0
+19,0,doctor,lighthand,languages,1
+20,0,web designer,lighthand,creative,2
+21,0,web designer,python,communacative,1
+22,0,developer,office,communacative,1
+23,1,developer,java,languages,1
+24,0,secertary,java,creative,0
+25,0,doctor,java,languages,1
+26,1,doctor,office,creative,2
+27,0,developer,java,languages,3
+28,1,secertary,python,communacative,0
+29,0,developer,python,communacative,0
+30,1,doctor,java,creative,1
+31,0,secertary,java,creative,1
+32,0,developer,office,creative,3
+33,0,doctor,office,languages,2
+34,0,doctor,office,creative,0
+35,0,web designer,office,creative,3
+36,0,developer,lighthand,creative,1
+37,0,developer,office,languages,3
+38,1,web designer,office,communacative,1
+39,0,doctor,java,creative,1
+40,0,web designer,java,creative,2
+41,1,secertary,office,languages,2
+42,0,secertary,python,creative,1
+43,0,developer,java,communacative,2
+44,1,developer,lighthand,communacative,1
+45,0,secertary,office,creative,2
+46,1,web designer,python,creative,0
+47,1,web designer,office,languages,2
+48,0,secertary,lighthand,communacative,2
+49,1,web designer,python,communacative,2
+50,1,doctor,lighthand,languages,3
+51,0,developer,office,languages,0
+52,0,web designer,python,creative,1
+53,0,doctor,lighthand,communacative,0
+54,0,developer,python,communacative,2
+55,0,doctor,python,languages,2
+56,0,doctor,python,languages,1
+57,0,web designer,java,communacative,2
+58,1,secertary,office,communacative,0
+59,0,web designer,python,creative,1
+60,0,developer,lighthand,communacative,1
+61,1,web designer,java,languages,2
+62,0,developer,lighthand,languages,2
+63,0,web designer,office,communacative,3
+64,0,doctor,java,communacative,0
+65,0,secertary,office,communacative,1
+66,1,secertary,lighthand,communacative,1
+67,0,secertary,lighthand,communacative,2
+68,1,developer,office,communacative,2
+69,0,web designer,java,communacative,0
+70,0,doctor,python,languages,1
+71,0,developer,java,creative,2
+72,0,secertary,python,creative,1
+73,0,secertary,office,languages,1
+74,1,web designer,office,communacative,1
+75,0,secertary,lighthand,languages,1
+76,0,secertary,office,creative,0
+77,1,web designer,office,creative,1
+78,1,doctor,java,creative,2
+79,0,web designer,office,creative,2
+80,0,doctor,java,creative,3
+81,0,doctor,lighthand,creative,2
+82,0,web designer,lighthand,languages,0
+83,0,secertary,office,creative,1
+84,0,secertary,lighthand,creative,2
+85,0,developer,java,communacative,1
+86,1,developer,office,languages,2
+87,0,secertary,office,communacative,0
+88,0,web designer,office,creative,1
+89,0,web designer,office,communacative,0
+90,0,doctor,python,communacative,2
+91,0,doctor,lighthand,languages,2
+92,0,secertary,lighthand,languages,1
+93,0,secertary,python,creative,1
+94,1,developer,lighthand,creative,2
+95,0,doctor,python,creative,0
+96,1,web designer,java,languages,3
+97,1,secertary,java,languages,2
+98,0,doctor,java,communacative,1
+99,0,developer,python,communacative,2
+100,1,doctor,office,communacative,2
+101,1,developer,lighthand,creative,0
+102,1,doctor,java,languages,0
+103,0,developer,python,languages,0
+104,0,secertary,office,creative,0
+105,1,developer,lighthand,creative,0
+106,0,web designer,java,creative,2
+107,0,secertary,java,creative,1
+108,1,secertary,java,communacative,1
+109,0,doctor,python,creative,1
+110,1,developer,office,communacative,0
+111,1,doctor,lighthand,languages,2
+112,0,secertary,lighthand,creative,2
+113,0,doctor,java,languages,3
+114,1,secertary,office,languages,2
+115,0,developer,lighthand,communacative,3
+116,0,web designer,java,languages,1
+117,0,secertary,office,communacative,2
+118,1,web designer,java,communacative,1
+119,0,secertary,lighthand,communacative,1
+120,0,developer,office,languages,1
+121,0,secertary,python,languages,1
+122,1,doctor,office,creative,0
+123,0,doctor,office,communacative,1
+124,0,secertary,python,creative,0
+125,0,secertary,python,languages,1
+126,0,doctor,office,creative,2
+127,0,secertary,office,creative,0
+128,0,secertary,office,creative,2
+129,0,web designer,lighthand,languages,3
+130,1,secertary,java,languages,1
+131,0,developer,office,creative,1
+132,0,web designer,lighthand,communacative,1
+133,0,secertary,python,creative,2
+134,0,web designer,python,communacative,2
+135,0,developer,java,languages,2
+136,0,secertary,java,languages,2
+137,0,developer,python,languages,1
+138,1,doctor,lighthand,languages,3
+139,0,developer,java,creative,1
+140,0,secertary,lighthand,languages,1
+141,0,secertary,java,communacative,0
+142,0,developer,python,communacative,1
+143,0,web designer,office,creative,1
+144,0,secertary,office,communacative,0
+145,0,doctor,lighthand,languages,1
+146,0,doctor,lighthand,communacative,0
+147,0,developer,lighthand,languages,3
+148,0,developer,office,creative,2
+149,0,developer,java,creative,2
+150,0,secertary,office,communacative,0
+151,0,developer,python,communacative,0
+152,0,doctor,python,communacative,1
+153,0,web designer,java,languages,1
+154,0,secertary,lighthand,creative,3
+155,0,web designer,office,languages,2
+156,0,doctor,lighthand,creative,1
+157,1,doctor,python,languages,1
+158,0,developer,python,languages,0
+159,0,web designer,java,creative,1
+160,0,doctor,lighthand,languages,0
+161,1,web designer,java,communacative,0
+162,0,developer,python,languages,0
+163,0,doctor,lighthand,creative,1
+164,0,secertary,lighthand,communacative,0
+165,0,secertary,lighthand,languages,1
+166,0,secertary,lighthand,communacative,1
+167,0,doctor,lighthand,languages,0
+168,0,web designer,java,creative,0
+169,0,developer,java,languages,1
+170,1,secertary,python,creative,1
+171,0,secertary,java,languages,0
+172,1,web designer,python,communacative,0
+173,1,secertary,python,communacative,2
+174,1,developer,lighthand,languages,4
+175,1,web designer,java,communacative,1
+176,0,developer,java,communacative,2
+177,0,secertary,java,languages,2
+178,0,secertary,java,creative,2
+179,0,secertary,python,creative,1
+180,0,secertary,python,creative,1
+181,1,secertary,java,creative,3
+182,0,doctor,java,languages,1
+183,0,web designer,java,creative,2
+184,0,doctor,python,creative,0
+185,1,secertary,lighthand,communacative,1
+186,0,secertary,python,communacative,0
+187,0,developer,java,languages,1
+188,0,doctor,office,languages,2
+189,0,developer,office,communacative,2
+190,0,secertary,python,communacative,1
+191,0,doctor,java,languages,2
+192,1,developer,java,creative,2
+193,0,web designer,office,languages,0
+194,0,secertary,office,communacative,1
+195,1,secertary,java,languages,0
+196,1,secertary,office,communacative,2
+197,0,web designer,office,languages,1
+198,0,doctor,python,creative,3
+199,0,developer,python,languages,4
+200,0,web designer,python,communacative,2
+201,0,secertary,office,creative,1
+202,0,web designer,office,creative,2
+203,1,secertary,python,communacative,2
+204,0,developer,lighthand,creative,3
+205,0,web designer,office,creative,2
+206,0,secertary,office,languages,1
+207,1,doctor,python,languages,0
+208,1,web designer,office,creative,0
+209,0,developer,lighthand,communacative,3
+210,1,developer,java,languages,2
+211,0,web designer,java,creative,2
+212,0,secertary,office,communacative,1
+213,0,web designer,java,creative,2
+214,1,web designer,office,languages,2
+215,1,doctor,office,languages,4
+216,0,web designer,lighthand,creative,2
+217,1,developer,python,creative,1
+218,0,web designer,python,communacative,0
+219,0,doctor,office,communacative,3
+220,1,web designer,python,communacative,2
+221,0,web designer,lighthand,communacative,2
+222,0,developer,lighthand,creative,0
+223,0,secertary,lighthand,creative,2
+224,0,web designer,java,communacative,2
+225,0,developer,java,communacative,1
+226,0,developer,java,creative,0
+227,0,developer,python,communacative,0
+228,0,web designer,java,communacative,0
+229,0,web designer,office,creative,1
+230,1,secertary,lighthand,languages,3
+231,1,developer,lighthand,creative,1
+232,1,doctor,java,communacative,0
+233,0,secertary,lighthand,communacative,0
+234,0,developer,python,languages,1
+235,0,web designer,office,languages,0
+236,1,developer,lighthand,communacative,1
+237,1,web designer,python,languages,2
+238,0,doctor,python,creative,3
+239,0,secertary,java,communacative,2
+240,0,secertary,python,creative,1
+241,1,secertary,java,creative,2
+242,1,secertary,java,communacative,1
+243,0,web designer,java,languages,2
+244,0,secertary,java,languages,3
+245,0,web designer,lighthand,communacative,1
+246,0,developer,java,communacative,4
+247,0,secertary,office,communacative,2
+248,0,web designer,java,communacative,1
+249,1,developer,java,languages,3
+250,1,secertary,lighthand,languages,2
+251,0,doctor,java,creative,2
+252,0,doctor,java,communacative,1
+253,0,doctor,office,communacative,2
+254,1,secertary,java,languages,1
+255,0,web designer,python,languages,1
+256,0,web designer,lighthand,creative,0
+257,1,doctor,python,creative,0
+258,0,secertary,lighthand,communacative,2
+259,0,web designer,python,communacative,1
+260,0,doctor,java,creative,1
+261,0,web designer,python,languages,2
+262,0,secertary,java,creative,2
+263,1,doctor,office,creative,3
+264,1,web designer,office,communacative,1
+265,0,secertary,java,creative,1
+266,1,developer,python,creative,2
+267,1,secertary,lighthand,creative,1
+268,1,developer,java,communacative,0
+269,0,secertary,office,languages,1
+270,0,web designer,python,creative,1
+271,0,secertary,office,languages,3
+272,0,developer,lighthand,creative,2
+273,0,secertary,office,languages,3
+274,1,secertary,python,creative,0
+275,0,secertary,lighthand,communacative,2
+276,0,developer,lighthand,languages,2
+277,0,developer,office,languages,1
+278,0,developer,lighthand,creative,0
+279,0,doctor,java,creative,2
+280,1,doctor,python,communacative,2
+281,0,developer,java,communacative,0
+282,0,developer,office,communacative,4
+283,0,web designer,java,creative,1
+284,0,doctor,python,communacative,0
+285,1,developer,lighthand,communacative,0
+286,0,doctor,python,communacative,1
+287,0,secertary,java,creative,2
+288,1,web designer,office,languages,1
+289,0,developer,python,languages,1
+290,0,secertary,python,communacative,1
+291,1,doctor,java,languages,1
+292,0,developer,office,languages,2
+293,0,secertary,lighthand,communacative,1
+294,1,developer,lighthand,languages,1
+295,1,doctor,office,creative,1
+296,0,web designer,python,communacative,3
+297,0,developer,lighthand,creative,1
+298,0,secertary,python,languages,0
+299,1,web designer,python,communacative,1
+300,0,secertary,lighthand,languages,0
+301,0,web designer,java,creative,1
+302,0,doctor,python,communacative,0
+303,0,web designer,python,communacative,0
+304,0,secertary,office,communacative,4
+305,1,developer,python,communacative,3
+306,0,web designer,java,languages,1
+307,1,secertary,java,creative,1
+308,0,secertary,lighthand,languages,1
+309,0,doctor,java,communacative,1
+310,0,developer,lighthand,creative,1
+311,0,web designer,office,communacative,1
+312,1,doctor,java,languages,1
+313,1,web designer,lighthand,creative,2
+314,0,developer,python,communacative,0
+315,1,web designer,java,languages,0
+316,1,doctor,lighthand,communacative,0
+317,0,developer,lighthand,languages,1
+318,0,web designer,python,communacative,2
+319,0,doctor,office,communacative,1
+320,0,doctor,java,communacative,3
+321,1,developer,python,communacative,3
+322,1,web designer,office,communacative,2
+323,0,doctor,office,communacative,1
+324,1,web designer,java,languages,0
+325,1,web designer,office,communacative,0
+326,0,doctor,python,creative,0
+327,0,web designer,lighthand,creative,1
+328,0,developer,java,languages,1
+329,0,secertary,java,languages,0
+330,0,doctor,java,languages,2
+331,0,developer,lighthand,communacative,2
+332,1,developer,lighthand,communacative,1
+333,1,secertary,java,languages,2
+334,1,doctor,python,communacative,1
+335,0,web designer,python,creative,0
+336,1,developer,office,creative,3
+337,0,secertary,python,communacative,1
+338,0,developer,lighthand,creative,1
+339,0,secertary,office,languages,2
+340,0,developer,python,communacative,2
+341,0,secertary,java,languages,2
+342,0,doctor,java,communacative,0
+343,1,developer,office,communacative,2
+344,0,secertary,office,communacative,0
+345,0,secertary,office,languages,1
+346,0,developer,lighthand,creative,0
+347,1,doctor,python,communacative,1
+348,1,developer,python,languages,2
+349,0,secertary,office,communacative,2
+350,0,doctor,lighthand,creative,0
+351,1,developer,java,creative,2
+352,0,web designer,java,creative,3
+353,0,secertary,office,creative,0
+354,0,secertary,java,languages,1
+355,0,secertary,python,communacative,1
+356,0,secertary,office,communacative,1
+357,0,doctor,python,languages,1
+358,0,doctor,lighthand,languages,2
+359,0,web designer,office,communacative,3
+360,0,doctor,java,communacative,0
+361,0,developer,lighthand,communacative,1
+362,0,doctor,lighthand,communacative,1
+363,0,developer,office,languages,0
+364,0,web designer,lighthand,creative,1
+365,0,doctor,office,creative,0
+366,1,web designer,java,communacative,1
+367,1,web designer,python,communacative,0
+368,0,web designer,python,creative,3
+369,0,web designer,python,communacative,1
+370,0,doctor,python,languages,2
+371,0,web designer,lighthand,creative,0
+372,0,doctor,python,languages,2
+373,1,secertary,lighthand,communacative,0
+374,0,developer,office,languages,1
+375,1,secertary,python,creative,0
+376,0,web designer,lighthand,languages,1
+377,0,secertary,lighthand,languages,1
+378,0,doctor,lighthand,languages,1
+379,0,secertary,python,creative,1
+380,0,developer,java,creative,0
+381,0,web designer,lighthand,creative,2
+382,0,secertary,office,languages,0
+383,0,secertary,python,languages,4
+384,0,doctor,java,languages,2
+385,0,web designer,lighthand,creative,2
+386,0,secertary,office,communacative,1
+387,0,secertary,office,languages,1
+388,1,web designer,python,languages,1
+389,0,developer,office,languages,0
+390,0,secertary,office,creative,1
+391,0,web designer,python,languages,1
+392,0,developer,java,creative,1
+393,1,secertary,office,communacative,0
+394,1,secertary,python,languages,1
+395,0,developer,java,communacative,2
+396,1,doctor,java,creative,2
+397,0,secertary,python,creative,2
+398,1,web designer,java,languages,1
+399,0,web designer,lighthand,languages,1
+400,0,doctor,python,communacative,2
+401,1,web designer,office,creative,3
+402,0,web designer,office,languages,2
+403,0,developer,lighthand,creative,0
+404,0,secertary,lighthand,languages,2
+405,0,developer,java,communacative,1
+406,0,doctor,office,languages,2
+407,1,developer,office,creative,0
+408,0,doctor,python,creative,0
+409,0,developer,lighthand,languages,2
+410,0,secertary,office,communacative,1
+411,1,secertary,lighthand,communacative,3
+412,0,web designer,python,communacative,2
+413,0,web designer,office,creative,1
+414,1,doctor,python,communacative,2
+415,1,secertary,lighthand,creative,2
+416,0,secertary,python,communacative,1
+417,0,secertary,python,languages,2
+418,0,web designer,office,communacative,2
+419,1,doctor,office,creative,3
+420,1,web designer,office,communacative,2
+421,0,web designer,office,communacative,2
+422,0,web designer,office,languages,1
+423,0,developer,lighthand,creative,1
+424,0,web designer,office,creative,2
+425,0,doctor,lighthand,languages,0
+426,0,secertary,python,languages,1
+427,0,developer,java,languages,1
+428,1,doctor,office,communacative,0
+429,0,web designer,java,languages,0
+430,0,doctor,lighthand,languages,3
+431,0,doctor,python,creative,3
+432,0,doctor,lighthand,creative,1
+433,1,developer,python,communacative,1
+434,1,secertary,java,communacative,1
+435,0,secertary,java,languages,1
+436,1,developer,python,creative,1
+437,0,doctor,python,languages,1
+438,0,doctor,python,languages,1
+439,0,secertary,lighthand,languages,2
+440,0,developer,lighthand,communacative,0
+441,0,secertary,python,languages,1
+442,1,web designer,office,languages,0
+443,1,doctor,lighthand,creative,1
+444,0,secertary,python,languages,0
+445,1,web designer,office,communacative,1
+446,0,secertary,python,communacative,1
+447,1,web designer,python,creative,0
+448,0,secertary,java,communacative,2
+449,0,secertary,lighthand,communacative,1
+450,0,web designer,java,communacative,1
+451,0,web designer,office,languages,1
+452,0,web designer,python,languages,2
+453,1,web designer,python,communacative,2
+454,0,developer,python,languages,2
+455,0,doctor,java,languages,2
+456,0,doctor,lighthand,languages,0
+457,0,web designer,python,languages,0
+458,0,secertary,office,communacative,1
+459,0,web designer,python,creative,1
+460,0,secertary,java,languages,1
+461,1,developer,office,communacative,1
+462,1,developer,office,creative,3
+463,0,web designer,java,communacative,2
+464,0,developer,java,creative,2
+465,0,developer,python,languages,1
+466,0,web designer,java,languages,0
+467,0,web designer,java,languages,1
+468,0,doctor,java,communacative,2
+469,0,secertary,python,languages,2
+470,0,secertary,lighthand,languages,1
+471,0,secertary,office,languages,1
+472,1,developer,lighthand,creative,0
+473,0,doctor,lighthand,communacative,1
+474,1,developer,office,communacative,1
+475,0,developer,office,creative,0
+476,1,developer,lighthand,communacative,2
+477,1,doctor,office,languages,2
+478,1,developer,python,languages,2
+479,0,doctor,python,creative,1
+480,1,web designer,office,creative,1
+481,0,doctor,python,communacative,1
+482,1,secertary,office,creative,1
+483,0,doctor,java,languages,3
+484,0,web designer,lighthand,communacative,2
+485,0,doctor,java,communacative,1
+486,1,web designer,python,communacative,2
+487,0,developer,python,creative,1
+488,0,web designer,office,creative,1
+489,0,web designer,lighthand,languages,1
+490,0,doctor,office,languages,1
+491,1,web designer,java,creative,0
+492,0,developer,lighthand,creative,2
+493,0,doctor,java,creative,0
+494,0,web designer,office,creative,1
+495,0,doctor,java,communacative,1
+496,1,secertary,python,creative,1
+497,1,secertary,office,creative,2
+498,0,secertary,lighthand,creative,2
+499,0,doctor,lighthand,communacative,1
+500,1,web designer,java,creative,0
+501,1,web designer,office,creative,2
+502,0,doctor,office,languages,3
+503,1,web designer,python,communacative,0
+504,0,doctor,office,creative,2
+505,0,developer,java,creative,2
+506,1,developer,java,creative,1
+507,0,secertary,java,communacative,3
+508,1,doctor,python,creative,0
+509,0,web designer,java,languages,2
+510,1,doctor,office,languages,1
+511,0,doctor,lighthand,creative,3
+512,0,doctor,python,creative,1
+513,0,web designer,lighthand,languages,2
+514,0,secertary,office,communacative,0
+515,0,web designer,java,creative,2
+516,0,developer,office,communacative,1
+517,0,doctor,lighthand,creative,1
+518,0,web designer,office,creative,1
+519,0,web designer,lighthand,languages,2
+520,0,secertary,office,creative,1
+521,0,developer,office,languages,3
+522,1,web designer,java,communacative,1
+523,1,doctor,java,creative,2
+524,0,developer,lighthand,communacative,1
+525,0,developer,lighthand,languages,1
+526,0,secertary,office,creative,2
+527,0,web designer,java,communacative,1
+528,1,developer,java,communacative,2
+529,0,doctor,lighthand,creative,0
+530,0,doctor,office,communacative,2
+531,1,doctor,office,communacative,1
+532,1,secertary,office,creative,1
+533,0,doctor,java,languages,1
+534,0,doctor,lighthand,creative,2
+535,0,secertary,lighthand,creative,2
+536,0,secertary,java,communacative,0
+537,1,web designer,python,languages,0
+538,0,doctor,java,communacative,0
+539,0,web designer,java,languages,1
+540,0,developer,python,communacative,2
+541,0,web designer,java,communacative,1
+542,0,developer,lighthand,languages,1
+543,1,developer,java,communacative,1
+544,1,developer,office,languages,0
+545,1,doctor,lighthand,languages,0
+546,0,developer,java,creative,2
+547,0,secertary,java,creative,1
+548,0,secertary,python,languages,1
+549,1,secertary,java,communacative,1
+550,0,secertary,office,languages,1
+551,1,secertary,java,communacative,0
+552,1,web designer,office,creative,0
+553,0,doctor,lighthand,communacative,0
+554,0,secertary,lighthand,languages,3
+555,0,web designer,python,languages,1
+556,0,secertary,python,communacative,2
+557,0,developer,lighthand,communacative,1
+558,0,web designer,office,communacative,1
+559,0,web designer,office,communacative,2
+560,0,developer,python,languages,1
+561,0,doctor,java,communacative,0
+562,0,web designer,python,communacative,1
+563,0,developer,lighthand,creative,1
+564,0,secertary,java,communacative,1
+565,1,doctor,python,communacative,2
+566,0,secertary,office,languages,0
+567,1,developer,python,communacative,1
+568,0,secertary,python,communacative,2
+569,1,doctor,lighthand,languages,2
+570,0,doctor,office,languages,0
+571,0,doctor,python,creative,2
+572,0,developer,java,creative,2
+573,0,secertary,office,creative,1
+574,1,secertary,office,creative,1
+575,1,web designer,office,languages,1
+576,0,secertary,office,creative,0
+577,0,secertary,python,languages,2
+578,1,doctor,office,communacative,1
+579,0,web designer,python,creative,1
+580,0,secertary,lighthand,communacative,0
+581,1,secertary,python,communacative,2
+582,1,secertary,office,languages,1
+583,0,web designer,office,creative,4
+584,1,doctor,office,creative,1
+585,0,developer,python,languages,1
+586,1,web designer,office,creative,2
+587,0,developer,lighthand,creative,3
+588,1,doctor,java,languages,2
+589,1,developer,python,communacative,0
+590,0,secertary,lighthand,communacative,0
+591,0,web designer,java,languages,1
+592,1,developer,lighthand,communacative,1
+593,0,web designer,office,communacative,3
+594,0,secertary,java,creative,0
+595,1,web designer,lighthand,languages,3
+596,0,developer,office,communacative,0
+597,0,developer,office,communacative,1
+598,1,doctor,java,creative,1
+599,1,developer,office,languages,2
+600,0,developer,java,languages,1
+601,1,web designer,java,languages,0
+602,0,secertary,java,communacative,2
+603,0,doctor,java,communacative,0
+604,0,web designer,java,creative,1
+605,0,secertary,java,languages,0
+606,1,developer,python,languages,0
+607,0,web designer,office,languages,3
+608,1,secertary,python,languages,1
+609,1,doctor,java,communacative,1
+610,1,secertary,java,languages,1
+611,0,secertary,office,languages,0
+612,0,developer,java,creative,3
+613,0,doctor,lighthand,languages,2
+614,0,doctor,java,languages,1
+615,0,doctor,java,communacative,1
+616,0,doctor,lighthand,communacative,2
+617,1,secertary,python,communacative,1
+618,0,secertary,python,communacative,0
+619,0,web designer,python,communacative,1
+620,1,doctor,python,languages,2
+621,0,doctor,office,languages,1
+622,1,secertary,lighthand,creative,1
+623,0,doctor,office,languages,1
+624,1,doctor,java,languages,1
+625,0,secertary,python,languages,2
+626,0,doctor,python,communacative,0
+627,1,developer,lighthand,communacative,0
+628,0,web designer,lighthand,communacative,3
+629,1,secertary,python,languages,1
+630,0,secertary,java,languages,0
+631,0,doctor,office,communacative,1
+632,0,web designer,java,communacative,1
+633,0,developer,java,creative,0
+634,1,web designer,office,communacative,0
+635,0,web designer,lighthand,creative,1
+636,0,developer,java,creative,0
+637,0,developer,python,communacative,0
+638,0,secertary,python,languages,1
+639,0,secertary,lighthand,communacative,0
+640,0,developer,lighthand,communacative,0
+641,0,web designer,java,languages,1
+642,0,doctor,python,creative,2
+643,0,secertary,office,languages,1
+644,0,secertary,office,communacative,1
+645,1,secertary,lighthand,communacative,1
+646,0,secertary,office,creative,2
+647,0,web designer,java,creative,1
+648,0,developer,java,languages,1
+649,0,web designer,office,creative,2
+650,0,doctor,java,languages,1
+651,0,developer,java,languages,1
+652,0,secertary,java,languages,2
+653,1,secertary,python,communacative,0
+654,1,secertary,java,languages,0
+655,0,doctor,python,creative,2
+656,0,doctor,java,languages,2
+657,1,secertary,lighthand,languages,0
+658,0,web designer,lighthand,creative,1
+659,0,web designer,office,creative,0
+660,0,secertary,lighthand,languages,0
+661,1,doctor,office,languages,1
+662,0,developer,python,communacative,2
+663,0,web designer,lighthand,languages,2
+664,1,web designer,java,creative,0
+665,0,doctor,office,languages,1
+666,0,doctor,java,communacative,1
+667,0,doctor,office,creative,2
+668,0,web designer,python,languages,2
+669,0,secertary,python,languages,2
+670,0,developer,python,communacative,1
+671,0,secertary,office,communacative,1
+672,0,secertary,python,creative,2
+673,0,doctor,java,communacative,0
+674,1,developer,python,creative,1
+675,1,secertary,lighthand,languages,2
+676,0,developer,java,communacative,1
+677,1,developer,python,creative,1
+678,0,secertary,lighthand,creative,2
+679,1,secertary,java,creative,2
+680,0,web designer,java,communacative,1
+681,0,web designer,office,creative,2
+682,0,secertary,java,creative,2
+683,0,doctor,lighthand,creative,0
+684,1,doctor,java,communacative,2
+685,0,web designer,python,languages,1
+686,0,web designer,python,communacative,2
+687,0,secertary,java,communacative,2
+688,1,doctor,office,languages,1
+689,0,web designer,python,languages,1
+690,0,doctor,java,communacative,1
+691,0,developer,lighthand,communacative,0
+692,0,secertary,lighthand,languages,1
+693,0,developer,python,languages,1
+694,0,web designer,office,languages,0
+695,0,web designer,office,languages,2
+696,0,secertary,office,languages,0
+697,0,secertary,lighthand,communacative,2
+698,0,secertary,office,creative,0
+699,1,doctor,python,communacative,1
+700,0,secertary,lighthand,languages,2
+701,0,doctor,office,languages,2
+702,0,web designer,python,creative,2
+703,0,secertary,lighthand,communacative,0
+704,0,secertary,lighthand,languages,2
+705,0,doctor,java,communacative,2
+706,0,developer,java,creative,0
+707,0,secertary,office,languages,3
+708,0,developer,python,communacative,2
+709,1,secertary,lighthand,communacative,1
+710,0,web designer,python,creative,1
+711,0,secertary,lighthand,languages,2
+712,0,web designer,office,creative,1
+713,1,secertary,python,communacative,1
+714,0,secertary,java,communacative,0
+715,0,secertary,lighthand,languages,0
+716,0,doctor,python,languages,1
+717,1,doctor,lighthand,creative,1
+718,1,secertary,java,languages,1
+719,0,doctor,office,languages,2
+720,1,developer,python,communacative,0
+721,0,web designer,python,creative,4
+722,0,doctor,python,languages,2
+723,0,developer,lighthand,creative,2
+724,0,web designer,lighthand,creative,0
+725,0,developer,office,languages,2
+726,1,developer,office,communacative,0
+727,0,web designer,python,languages,0
+728,0,web designer,office,languages,2
+729,0,web designer,office,communacative,1
+730,1,developer,office,languages,1
+731,0,doctor,office,languages,2
+732,1,developer,lighthand,communacative,1
+733,0,developer,office,creative,0
+734,1,developer,lighthand,communacative,2
+735,1,secertary,lighthand,creative,3
+736,1,web designer,lighthand,communacative,1
+737,1,web designer,office,communacative,2
+738,1,web designer,java,languages,3
+739,1,web designer,lighthand,languages,0
+740,0,developer,lighthand,languages,2
+741,0,secertary,lighthand,languages,0
+742,0,secertary,office,communacative,3
+743,1,doctor,java,languages,1
+744,1,developer,office,languages,0
+745,0,secertary,office,communacative,0
+746,0,web designer,java,communacative,2
+747,0,web designer,java,creative,2
+748,1,doctor,office,creative,2
+749,1,secertary,python,creative,1
+750,0,secertary,java,communacative,3
+751,0,doctor,python,languages,0
+752,0,web designer,python,communacative,2
+753,1,developer,office,communacative,1
+754,0,developer,lighthand,communacative,1
+755,0,doctor,java,creative,4
+756,0,doctor,office,communacative,0
+757,0,doctor,python,communacative,1
+758,0,web designer,lighthand,communacative,1
+759,0,secertary,lighthand,communacative,0
+760,1,web designer,office,communacative,0
+761,0,doctor,office,creative,2
+762,0,developer,office,communacative,1
+763,0,developer,python,communacative,1
+764,0,developer,java,creative,2
+765,0,web designer,python,creative,0
+766,0,doctor,lighthand,communacative,1
+767,0,developer,office,languages,2
+768,0,web designer,lighthand,languages,0
+769,0,web designer,lighthand,languages,1
+770,0,web designer,office,creative,2
+771,1,developer,python,communacative,2
+772,0,web designer,python,communacative,1
+773,0,developer,lighthand,creative,3
+774,0,doctor,office,creative,1
+775,0,secertary,office,communacative,1
+776,0,web designer,java,communacative,0
+777,0,doctor,lighthand,creative,0
+778,0,doctor,office,languages,0
+779,0,developer,java,languages,2
+780,0,secertary,office,creative,2
+781,0,developer,lighthand,languages,1
+782,1,doctor,office,languages,0
+783,1,doctor,python,creative,1
+784,1,developer,python,languages,0
+785,0,developer,python,communacative,2
+786,1,developer,python,creative,3
+787,0,doctor,lighthand,communacative,1
+788,0,doctor,office,languages,1
+789,0,web designer,java,creative,3
+790,0,web designer,java,languages,0
+791,1,doctor,office,languages,2
+792,0,developer,python,communacative,2
+793,0,web designer,office,creative,1
+794,0,developer,python,languages,1
+795,0,doctor,lighthand,languages,1
+796,0,web designer,python,communacative,2
+797,1,developer,java,creative,1
+798,0,secertary,office,communacative,1
+799,0,developer,office,languages,2
+800,0,web designer,lighthand,languages,1
+801,0,developer,python,languages,2
+802,0,developer,python,communacative,1
+803,0,web designer,java,creative,1
+804,1,secertary,python,languages,2
+805,1,secertary,java,languages,2
+806,0,web designer,office,languages,2
+807,0,secertary,lighthand,languages,1
+808,0,web designer,java,languages,3
+809,0,secertary,java,creative,0
+810,0,developer,java,communacative,0
+811,0,doctor,python,communacative,1
+812,0,secertary,office,languages,3
+813,0,secertary,python,languages,4
+814,0,secertary,java,communacative,2
+815,1,secertary,python,creative,1
+816,1,secertary,office,languages,1
+817,0,web designer,lighthand,languages,2
+818,0,doctor,python,communacative,3
+819,0,web designer,lighthand,creative,1
+820,0,web designer,java,languages,0
+821,1,web designer,lighthand,communacative,1
+822,0,web designer,java,communacative,3
+823,0,secertary,python,creative,2
+824,0,secertary,python,creative,2
+825,1,secertary,lighthand,communacative,2
+826,0,doctor,java,creative,1
+827,0,web designer,lighthand,communacative,0
+828,0,developer,office,creative,2
+829,1,developer,java,communacative,1
+830,1,developer,python,creative,0
+831,1,secertary,lighthand,creative,1
+832,0,doctor,lighthand,communacative,1
+833,0,secertary,python,languages,1
+834,0,secertary,python,languages,0
+835,1,web designer,python,languages,1
+836,1,doctor,java,communacative,2
+837,0,developer,office,creative,2
+838,0,developer,lighthand,creative,0
+839,0,developer,lighthand,communacative,0
+840,1,doctor,office,communacative,1
+841,0,secertary,java,creative,1
+842,0,developer,lighthand,languages,1
+843,0,doctor,java,creative,1
+844,1,secertary,python,creative,2
+845,0,web designer,python,communacative,0
+846,0,doctor,office,languages,1
+847,0,developer,office,creative,0
+848,0,doctor,office,creative,2
+849,1,doctor,office,communacative,2
+850,0,doctor,python,communacative,2
+851,0,web designer,java,communacative,2
+852,1,doctor,java,languages,2
+853,0,web designer,office,communacative,1
+854,1,doctor,lighthand,communacative,1
+855,0,doctor,lighthand,communacative,1
+856,0,developer,java,languages,4
+857,1,doctor,office,creative,0
+858,0,developer,python,languages,2
+859,0,web designer,java,creative,1
+860,1,developer,java,creative,2
+861,1,secertary,java,languages,1
+862,0,web designer,java,communacative,0
+863,0,developer,office,creative,2
+864,1,web designer,lighthand,languages,0
+865,1,developer,python,languages,0
+866,0,secertary,lighthand,creative,2
+867,1,secertary,lighthand,creative,0
+868,0,web designer,lighthand,languages,1
+869,0,doctor,lighthand,communacative,0
+870,0,developer,python,creative,0
+871,0,developer,office,communacative,1
+872,0,doctor,office,creative,1
+873,1,developer,office,creative,1
+874,0,doctor,python,languages,1
+875,0,doctor,python,communacative,1
+876,0,secertary,java,languages,1
+877,0,doctor,office,languages,1
+878,0,secertary,python,languages,1
+879,0,web designer,python,creative,1
+880,0,web designer,office,communacative,1
+881,1,doctor,lighthand,communacative,1
+882,0,doctor,lighthand,languages,2
+883,0,doctor,java,languages,2
+884,0,secertary,python,languages,0
+885,0,web designer,office,languages,2
+886,0,doctor,lighthand,communacative,1
+887,1,web designer,java,communacative,0
+888,0,web designer,office,languages,2
+889,0,doctor,java,languages,1
+890,1,secertary,lighthand,communacative,0
+891,0,web designer,lighthand,communacative,2
+892,0,developer,lighthand,languages,1
+893,1,secertary,python,creative,1
+894,0,doctor,office,communacative,0
+895,1,web designer,office,languages,3
+896,0,doctor,python,languages,2
+897,0,doctor,java,creative,1
+898,0,secertary,lighthand,creative,0
+899,1,doctor,python,creative,1
+900,0,developer,office,communacative,1
+901,0,web designer,python,languages,1
+902,0,web designer,office,creative,1
+903,0,doctor,office,communacative,0
+904,0,secertary,python,creative,0
+905,0,doctor,office,creative,2
+906,0,doctor,java,languages,1
+907,0,secertary,lighthand,creative,2
+908,0,secertary,office,communacative,2
+909,0,web designer,java,communacative,1
+910,1,secertary,office,communacative,1
+911,1,web designer,java,creative,3
+912,0,secertary,python,communacative,2
+913,0,web designer,python,creative,1
+914,0,web designer,python,communacative,0
+915,0,doctor,lighthand,communacative,1
+916,0,developer,lighthand,creative,1
+917,1,doctor,java,creative,2
+918,0,developer,python,communacative,1
+919,1,doctor,python,communacative,1
+920,0,web designer,python,languages,1
+921,0,secertary,python,creative,0
+922,0,doctor,office,communacative,1
+923,0,developer,office,creative,2
+924,0,developer,office,languages,1
+925,1,web designer,lighthand,creative,1
+926,0,doctor,python,communacative,1
+927,1,doctor,java,creative,1
+928,1,secertary,java,communacative,1
+929,0,developer,office,languages,2
+930,0,secertary,java,communacative,1
+931,0,doctor,lighthand,creative,2
+932,0,secertary,office,communacative,2
+933,0,secertary,python,creative,1
+934,1,doctor,lighthand,communacative,1
+935,1,developer,lighthand,creative,3
+936,0,developer,lighthand,creative,3
+937,0,developer,python,communacative,3
+938,0,web designer,office,communacative,2
+939,1,doctor,java,communacative,0
+940,0,web designer,java,communacative,1
+941,0,doctor,java,communacative,2
+942,0,secertary,office,creative,1
+943,0,doctor,lighthand,creative,2
+944,0,web designer,java,languages,2
+945,0,doctor,java,communacative,0
+946,0,developer,java,creative,1
+947,1,doctor,python,creative,1
+948,0,secertary,java,communacative,1
+949,0,web designer,python,communacative,2
+950,0,secertary,lighthand,creative,3
+951,0,doctor,office,languages,1
+952,0,secertary,java,creative,0
+953,0,doctor,office,creative,1
+954,0,secertary,office,creative,1
+955,0,doctor,office,languages,2
+956,0,web designer,lighthand,languages,3
+957,0,doctor,lighthand,creative,3
+958,0,developer,java,creative,2
+959,0,doctor,python,languages,1
+960,1,developer,office,communacative,1
+961,1,doctor,office,communacative,1
+962,0,doctor,python,creative,3
+963,1,web designer,java,languages,0
+964,0,secertary,python,communacative,0
+965,0,web designer,java,communacative,1
+966,0,secertary,java,creative,1
+967,0,doctor,lighthand,creative,1
+968,0,secertary,office,communacative,1
+969,0,web designer,lighthand,creative,1
+970,0,developer,office,communacative,1
+971,0,web designer,java,communacative,0
+972,1,doctor,python,languages,1
+973,0,developer,lighthand,creative,2
+974,1,developer,office,communacative,2
+975,0,developer,java,communacative,1
+976,0,web designer,office,languages,1
+977,0,developer,office,languages,2
+978,1,developer,java,languages,1
+979,0,secertary,python,communacative,0
+980,1,web designer,office,creative,3
+981,0,doctor,python,languages,1
+982,1,doctor,java,languages,1
+983,0,secertary,java,communacative,1
+984,0,developer,java,languages,1
+985,0,secertary,python,creative,1
+986,0,web designer,java,creative,1
+987,0,doctor,lighthand,communacative,0
+988,1,web designer,office,communacative,2
+989,1,developer,java,communacative,1
+990,0,developer,lighthand,creative,0
+991,0,secertary,lighthand,creative,0
+992,1,doctor,java,communacative,2
+993,1,web designer,office,languages,0
+994,0,secertary,java,communacative,1
+995,1,secertary,lighthand,languages,0
+996,0,web designer,lighthand,communacative,1
+997,0,web designer,python,languages,0
+998,1,doctor,lighthand,languages,1
+999,1,developer,office,creative,2
